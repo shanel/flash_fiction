@@ -1,19 +1,32 @@
 # He needs to have some sort of agency, otherwise we could kind of care less
 
-# Maybe somehow/somewhere he has read Seneca (or some other Stoic) and has come to see that he should take control - he may not be able to stop the violence, but at least it can happen on his own terms - ie he can at least control when it happens (stop it from happening randomly)
+# Maybe somehow/somewhere he has read Seneca (or some other Stoic) and has
+# come to see that he should take control - he may not be able to stop the
+# violence, but at least it can happen on his own terms - ie he can at least
+# control when it happens (stop it from happening randomly)
 
 # might make sense to rearrange things a bit to make this work a little better
 
-# where could he have read the stoics? maybe from some comic? some reference to it? looked it up online (or in library when hiding), maybe it was an unshelved book where he was trying to hide from librarian?
+# where could he have read the stoics? maybe from some comic? some reference
+# to it? looked it up online (or in library when hiding), maybe it was an
+# unshelved book where he was trying to hide from librarian?
 
-# Does it help or hinder (or neither) to have marine brother dead? Maybe found meditations by marcus aurilus in brother's stuff? (he was a general) Maybe something like the whole "perform every action as though it were your last?"
+# Does it help or hinder (or neither) to have marine brother dead? Maybe found
+# meditations by marcus aurilus in brother's stuff? (he was a general) Maybe
+# something like the whole "perform every action as though it were your last?"
 
-# Maybe the family just got the news the brother was killed? Got his personal effects and he found Meditations (with a certain passage hilighted?)
+# Maybe the family just got the news the brother was killed? Got his personal
+# effects and he found Meditations (with a certain passage hilighted?)
 
-# He is walking home from getting beat up
-# We flash to remembering his brother, the news of his brother's death, the reception of his effects, finding the book, getting beat up other times, the sense of not knowing when it would happen, the getting beaten up after the video game, ending with his intentionally winning and knowing what would follow (knowing it was coming felt different this time - versus not knowing what he had done to deserve it)
+# He is walking home from getting beat up # We flash to remembering his
+# brother, the news of his brother's death, the reception of his effects,
+# finding the book, getting beat up other times, the sense of not knowing when
+# it would happen, the getting beaten up after the video game, ending with his
+# intentionally winning and knowing what would follow (knowing it was coming
+# felt different this time - versus not knowing what he had done to deserve it)
 
-# Can we do all this mental time shifting in a 1000 word story, plus keep the whole "journey" thing happening?
+# Can we do all this mental time shifting in a 1000 word story, plus keep the
+# whole "journey" thing happening?
 
 Journey
 
@@ -23,7 +36,7 @@ his grip on the bike frame and it stabilizes him.
 
 He lets his eyes adjust again to the fading sunset, the car's lights leave
 flashbulbs when he blinks. He climbs back up to the asphalt and gently leans
-the bike on the ground and sits down next to it.
+the bike on the ground, sitting down next to it.
 
 He pulls off the now-dust-covered canvas shoe and slaps the dirt and pebbles
 out. He slips it back on and does the other one. He stands up and puts the
@@ -34,9 +47,9 @@ like a car quickly coming around the corner -- a blast of light. He suddenly
 stops, feeling un able to move, seeing the punch coming again and being held
 to take it.
 
-H looks to his left at the orange to darkness falling into the ocean. Tomorrow
-is Monday. They will be there waiting for him again after school. He keeps
-pushing the bike. At least he doesn't have to watch out for the pedals'
+He looks to his left at the orange to darkness falling into the ocean.
+Tomorrow is Monday. They will be there waiting for him again after school. He
+keeps pushing the bike. At least he doesn't have to watch out for the pedals'
 movement as he walks, their having stolen the chain and all.
 
 He shudders as a breeze comes up. He can smell the dampness in the air. He had
@@ -95,3 +108,31 @@ poster of his brother's saying "never bring a knife to a gunfight."
 
 The flood light outside went off, and the garage fell into darkness. The boy
 lies on the bench and dreams of bloody knives.
+
+###############
+
+# In library
+
+The boy sits in a small alcove. He is holding a book, but is not reading. He is praying. He is praying the librarian Mrs. Curtis will not see him. It is closing time for the school library, an hour after school is out. He turns his body so he is not seen when looking down the aisle. He tries to slow his breathing, but as he is trying this, he hears the shuffling steps. The clenching in his stomach gets tighter. He doesn't want to go outside. He knows they are waiting for him.
+
+# The news and looking through the stuff
+
+Two days ago three men came to the house in the evening. He had glanced out the window and seen uniforms, but when he looked harder he didn't see his brother, so he went upstairs. From his room he heard his mother screaming and crying and a man's voice talking over it. He went to his bed and tried to sleep. His mother knocked on his door, but he acted like he was asleep and she went away. Later that night, his father came to his room and told him his brother wasn't coming home.
+
+Yesterday evening military men brought a large green box and they put it in his brother's room. When his parents were away he went in and looked through it. It was full of dusty military clothes and a bunch of books. He heard his mother opening the door downstairs. He quickly grabbed the first book he saw and ran back to his room, closing the door.
+
+That night he read the short dogeared book. It was a journal of sorts of a ruler in Rome a long time ago. He said it was important to care about things you had control over and to act as though whatever you were doing now was the last thing you would ever do.
+
+# Picked on
+
+For as long as the boy had known him, Jason Black had been picking on him. Earlier this week it was because he had answered a question in class about Germany incorrectly. Jason, who sat behind him, came up behind him and whispered "my family's from Germany you little fag, maybe after I kick your ass after school you'll study more." They had waited for him by the stairway that lead down the hill to the neighborhood he lived in. They chased him down and threw him against a set of lockers. Jason and his friends then threw him into the dumpster behind the school.
+
+Yesterday, when had gotten back to the classroom from peeing Jason whispered in his ear "you go to the bathroom so much you'd think you lived there. Maybe you should!" That afternoon his Jason and his friends locked him in the girl's bathroom with the lights out. An hour later the janitor found him and sent him on his way.
+
+# video game 
+
+He and his friends would often spend their Saturdays at the liquor store playing Beat Down 2. It was a video game where two people beat each other up, each character had their own special moves. They would stand around playing, putting their quarters up on the glass to show they were in line. Sometimes Jason Black would show up with his friends. The boy would sometimes end up playing against him. He knew he would beat Jason, but never did. He knew it would be just another reason for Jason and his friends to beat him up.
+
+# lifting weights
+
+His brother always got home before he did and would always be out in the garage listening to loud music and lifting weights. He didn't really like his brother's music and never was strong. He wished he was strong. He was pretty sure Jason Black would never have picked on his brother.
